@@ -1,5 +1,3 @@
-I am not the author, the video list is a hardcoded response
+A copy of YTCH, a simple Youtube channel player.
 
-https://ytch.xyz/
-
-mirror https://stevemk14ebr.github.io/YTCH/
+With the purpose of showcasing channels related to Advaita Vedanta.
